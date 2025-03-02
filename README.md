@@ -1,4 +1,4 @@
-# ![texto alternativo](https://cdn-icons-png.flaticon.com/512/3670/3670051.png) Loja Zap
+# <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" width="40" height="40"/> Loja Zap
 
 <p align="center">
    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gabriel4420/loja-zap">
