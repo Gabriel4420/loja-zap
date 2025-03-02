@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ![texto alternativo](https://cdn-icons-png.flaticon.com/512/3670/3670051.png) Loja Zap
 
-## Getting Started
+<p align="center">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gabriel4420/loja-zap">
 
-First, run the development server:
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/loja-zap?logo=html">
+
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/loja-zap?color=green">
+
+  <br>
+  
+  <a href="https://www.codacy.com/manual/Gabriel4420/loja-zap?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gabriel4420/loja-zap&amp;utm_campaign=Badge_Grade">
+    <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
+  </a>
+  
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/loja-zap">
+
+  <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
+    <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img alt="Gif da Aplicação" src="public/Home.png" />
+</p>
+
+---
+
+## 📝 Sobre o Projeto
+
+Loja Zap é uma aplicação web moderna que simula uma loja virtual integrada com WhatsApp, permitindo que os clientes façam pedidos diretamente através da plataforma, com envio automático para o WhatsApp do vendedor.
+
+## 🚀 Tecnologias Utilizadas
+
+- React.js
+- TypeScript
+- Styled Components
+- React Router DOM
+- Context API
+- Local Storage
+
+## ⚙️ Funcionalidades
+
+- Catálogo de produtos
+- Carrinho de compras
+- Integração com WhatsApp
+- Interface responsiva
+- Persistência de dados do carrinho
+
+## 📦 Instalação
+
+1. Clone o repositório:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Gabriel4420/loja-zap.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Instale as dependências:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+3. Execute o projeto:
 
-## Learn More
+```bash
+npm start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Implementações Futuras
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [ ] Sistema de autenticação de usuários
+- [ ] Painel administrativo para gestão de produtos
+- [ ] Integração com sistema de pagamentos
+- [ ] Sistema de favoritos
+- [ ] Histórico de pedidos
+- [ ] Múltiplos temas (claro/escuro)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Como Contribuir
 
-## Deploy on Vercel
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<h4 align="center">
+  Feito com ❤️ por Gabriel Rodrigues 👋️ <a href="mailto:gabriel_rodrigues_perez@hotmail.com">Entre em contato!</a>
+</h4>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
+    <img alt="Gabriel Rodrigues Perez" src="https://img.shields.io/badge/LinkedIn-Gabriel_Rodrigues-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/gabriel.rodrigues.perez">
+    <img alt="Gabriel Rodrigues Perez" src="https://img.shields.io/badge/Facebook-Gabriel_Rodrigues-1778F2?style=flat&logoColor=white&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/gabriel_rodrigues_perez/">
+    <img alt="Gabriel Rodrigues Perez" src="https://img.shields.io/badge/Instagram-@gabriel4420-833AB4?style=flat&logoColor=white&logo=instagram">
+  </a>
+  
